@@ -2,6 +2,8 @@
 
 https://appleiphone-jasonlim.vercel.app/
 
+![Screenshot_1](https://user-images.githubusercontent.com/107684179/200102291-104ed157-0dde-429f-9344-8e2a24bca3c5.png)
+
 
 ### Resources Used in This Project
 
